@@ -1,8 +1,8 @@
-package menu;
+package br.com.gyselle.conversordemoedas.menu;
 
-import conection.ConversorMoedaApi;
-import models.Conversor;
-import models.ParDeMoeda;
+import br.com.gyselle.conversordemoedas.conection.ConversorMoedaApi;
+import br.com.gyselle.conversordemoedas.models.Conversor;
+import br.com.gyselle.conversordemoedas.models.ParDeMoeda;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

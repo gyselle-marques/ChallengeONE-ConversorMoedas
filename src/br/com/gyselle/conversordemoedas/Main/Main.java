@@ -1,6 +1,6 @@
-package Main;
+package br.com.gyselle.conversordemoedas.Main;
 
-import menu.Menu;
+import br.com.gyselle.conversordemoedas.menu.Menu;
 
 public class Main {
     public static void main(String[] args) {

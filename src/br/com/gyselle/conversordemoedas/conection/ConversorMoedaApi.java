@@ -1,7 +1,7 @@
-package conection;
+package br.com.gyselle.conversordemoedas.conection;
 
 import com.google.gson.Gson;
-import models.Conversor;
+import br.com.gyselle.conversordemoedas.models.Conversor;
 
 import java.net.URI;
 import java.net.http.HttpClient;

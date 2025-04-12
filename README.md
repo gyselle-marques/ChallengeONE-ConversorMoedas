@@ -1,6 +1,6 @@
 <h1 align="center">Challenge ONE Praticando Java: Conversor de Moedas</h1>
 
-<p>O objetivo deste desafio foi desenvolver um Conversor de Moedas que ofereça interação textual (via console) aos usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não é estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.</p>
+<p>O objetivo deste desafio foi desenvolver um Conversor de Moedas que ofereça interação textual (via console) aos usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um br.com.gyselle.conversordemoedas.menu. A taxa de conversão não é estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.</p>
 
 <h2>Funcionalidades</h2>
 
