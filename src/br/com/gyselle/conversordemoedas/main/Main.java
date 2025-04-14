@@ -1,4 +1,4 @@
-package br.com.gyselle.conversordemoedas.Main;
+package br.com.gyselle.conversordemoedas.main;
 
 import br.com.gyselle.conversordemoedas.menu.Menu;
 
